@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\ROG\source\repos\AISDlab3var3()\Source.cpp(77,23): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\ROG\source\repos\AISDlab3var3()\Source.cpp(82,104): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\ROG\source\repos\AISDlab3var3()\Source.cpp(84,104): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\ROG\source\repos\AISDlab3var3()\Source.cpp(136,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\AISDlab3var3()\List.h(88,41): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\AISDlab3var3()\List.h(87): message : во время компиляции функции-члена класс шаблон "T List<T>::at(size_t)"
+C:\Users\ROG\source\repos\AISDlab3var3()\List.h(87): message :         with
+C:\Users\ROG\source\repos\AISDlab3var3()\List.h(87): message :         [
+C:\Users\ROG\source\repos\AISDlab3var3()\List.h(87): message :             T=std::string
+C:\Users\ROG\source\repos\AISDlab3var3()\List.h(87): message :         ]
+C:\Users\ROG\source\repos\AISDlab3var3()\Source.cpp(32): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::at(size_t)"
+C:\Users\ROG\source\repos\AISDlab3var3()\Source.cpp(32): message :         with
+C:\Users\ROG\source\repos\AISDlab3var3()\Source.cpp(32): message :         [
+C:\Users\ROG\source\repos\AISDlab3var3()\Source.cpp(32): message :             T=std::string
+C:\Users\ROG\source\repos\AISDlab3var3()\Source.cpp(32): message :         ]
+C:\Users\ROG\source\repos\AISDlab3var3()\Source.cpp(23): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<std::string>"
+C:\Users\ROG\source\repos\AISDlab3var3()\List.h(97,2): warning C4018: <: несоответствие типов со знаком и без знака
+  AISDlab3var3().vcxproj -> C:\Users\ROG\source\repos\AISDlab3var3()\Debug\AISDlab3var3().exe

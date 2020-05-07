@@ -1,0 +1,10 @@
+﻿  UnitTestForFloyd_Uorshell.cpp
+C:\Users\ROG\source\repos\AISDlab3var3()\matrix_of_adjacencies.h(10,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ROG\source\repos\AISDlab3var3()\matrix_of_adjacencies.h(14,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ROG\source\repos\AISDlab3var3()\matrix_of_adjacencies.h(15,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ROG\source\repos\AISDlab3var3()\matrix_of_adjacencies.h(45,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ROG\source\repos\AISDlab3var3()\matrix_of_adjacencies.h(46,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ROG\source\repos\AISDlab3var3()\matrix_of_adjacencies.h(47,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ROG\source\repos\AISDlab3var3()\matrix_of_adjacencies.h(48,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ROG\source\repos\AISDlab3var3()\matrix_of_adjacencies.h(53,25): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  UnitTestForFloyd_Uorshell.vcxproj -> C:\Users\ROG\source\repos\AISDlab3var3()\x64\Debug\UnitTestForFloyd_Uorshell.dll

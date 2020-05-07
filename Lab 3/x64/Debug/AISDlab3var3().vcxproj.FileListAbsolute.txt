@@ -1,0 +1,2 @@
+C:\Users\1\source\repos\Lab 3\x64\Debug\Floyd_Uorshell.exe
+C:\Users\1\source\repos\Lab 3\x64\Debug\Floyd_Uorshell.pdb

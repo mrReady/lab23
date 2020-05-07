@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (AISDlab3var3().vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Floyd_Uorshell.cpp
+C:\Users\1\source\repos\Lab 3\matrix_of_adjacencies.h(10,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Lab 3\matrix_of_adjacencies.h(14,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Lab 3\matrix_of_adjacencies.h(15,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Lab 3\matrix_of_adjacencies.h(45,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Lab 3\matrix_of_adjacencies.h(46,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Lab 3\matrix_of_adjacencies.h(47,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Lab 3\matrix_of_adjacencies.h(48,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1\source\repos\Lab 3\matrix_of_adjacencies.h(53,25): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  AISDlab3var3().vcxproj -> C:\Users\1\source\repos\Lab 3\x64\Debug\Floyd_Uorshell.exe
